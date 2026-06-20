@@ -8,4 +8,9 @@ Use "A" and "D" to move.
 
 Made with unity 
 
-### Download for free [here](https://lordviet.itch.io/cubex)
+## Play the Game
+
+Experience Cubex now:
+[Play Cubex on itch.io](https://lordviet.itch.io/cubex)
+
+## Download for free on Windows [here](https://lordviet.itch.io/cubex)
