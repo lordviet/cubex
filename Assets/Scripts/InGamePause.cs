@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class InGamePause : MonoBehaviour {
 
@@ -40,7 +41,7 @@ public class InGamePause : MonoBehaviour {
     //Reloads the Level
     public void Reload()
     {
-        Application.LoadLevel(Application.loadedLevel);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
     //controls the pausing of the scene
@@ -79,7 +80,7 @@ public class InGamePause : MonoBehaviour {
     //loads inputted level
     public void LoadLevel(string level)
     {
-        Application.LoadLevel(level);
+        SceneManager.LoadScene(level);
     }
 
 }
