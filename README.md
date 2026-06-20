@@ -13,4 +13,4 @@ Made with unity
 Experience Cubex now:
 [Play Cubex on itch.io](https://lordviet.itch.io/cubex)
 
-## Download for free on Windows [here](https://lordviet.itch.io/cubex)
+Download for free on Windows [here](https://lordviet.itch.io/cubex)
